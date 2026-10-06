@@ -1,0 +1,98 @@
+body{
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+}
+.imp {
+    height: 600px;
+    max-width: 100%;
+    background-image: url("https://mailchimp.com/ctf/images/yzco4xsimv0y/5ti0F3znmaQ33B30TxuD1t/0ad3dac3dc8ab7c0f6635c3a7489cd1a/hero_standard_1920x1080_temp_solution_1x.webp?w=1536&q=70");
+    background-color: rgba(0, 0, 0, 0.363);
+    background-blend-mode: overlay;
+    padding-top: 40px;
+    max-height: 600px;
+   
+}
+.pp {
+    color: white;
+    font-size: 60px;
+    margin-top: 0;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+    display: block;
+}
+.A {
+color: rgb(255, 208, 0);
+font-family: cursive;
+margin-top: 0;
+display: block;
+}
+.small {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px; }
+
+    .tym {
+    align-items: center;
+    /* max-width: 200px;
+    max-height: 50px; */
+    background-color: rgb(255, 208, 0);
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    
+}
+.tym:hover{
+    background-color: rgb(230, 187, 0); 
+        transform: scale(1.03);     
+}
+    
+   .sip {
+       
+        font-weight: bolder;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow',
+         Arial, sans-serif;
+        
+         color: black;}
+   .tg{
+    width: 500px;
+    }
+    .btn{
+        text-decoration: none;
+    }
+    
+    .dit {
+       display: flex;
+       margin-top: 100px;
+        align-items: center;
+        justify-content: center;
+     }
+    .pter {
+        color: white;
+        margin-left: 40px;
+        font-family: "Public Sans", Sans-Serif;
+        margin-bottom: 0;
+    }
+    .ate {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       margin-top: 20px;
+    }
+    
+   
+   
+   

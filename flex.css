@@ -1,0 +1,52 @@
+body {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.innerBig {
+width: 200px;
+height: 400px;
+background-color: black;
+border-radius: 10px;
+/* margin-bottom: 30px; */
+}
+.innerSmall{
+    width: 200px;
+    height: 250px;
+    background-color: red;
+    border-radius: 10px;
+    /* margin: 10px; */
+
+}
+.outer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.hero {
+    display: flex;
+    gap: 10px;
+}
+
+.section2 {
+    width: 70%;
+    height: 400px;
+    margin: 50px 0;
+    background-color: brown;
+    justify-self: center;
+}
+.smalldiv {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
+
+/* justify (horizontally) and
+align (vertically)
+
+justify-self
+justify-content
+justify-items */
+/* .innerdiv{
+
+} */

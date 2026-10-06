@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245,245,237);
+}
+
+
+.ant {
+    width: 100%;
+    min-height: 100vh; /* full page background */
+    background-color: rgb(245,245,237);
+    padding-top: 10px;
+    box-sizing: border-box;
+    padding-top: 0;
+    margin-bottom: 40px;
+}
+
+.life{
+    display: flex;
+    justify-content: center; /* centers About to Startup Jobs */
+    align-items: center;
+    position: relative; /* to pin Log in/Apply to right */
+    width: 100%;
+    height: 60px;
+    /* padding: 0 40px; */
+    box-sizing: border-box;
+    position: fixed;
+    background-color:rgb(245,245,237);
+    margin-top: 0;
+    z-index: 999
+}
+
+.antaa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
+
+.anta {
+     font-family: "Outfit", sans-serif;
+     margin: 0;
+     font-size: 14px;
+     cursor: pointer;
+     white-space: nowrap;
+}
+
+.antaa span {
+    font-size: 10px;
+    margin-left: 3px;
+}
+
+.stress {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    right: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.b{
+    font-family: "Source Serif 4", serif;
+    font-size: 14px;
+}
+
+.boro {
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.lope {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 160px;
+}
+.builders{
+    font-size: 80px;
+    margin: 0;
+    font-family: "Source Serif 4", serif;
+    font-weight: 400;
+}
+.ort{
+    margin-top: 50px;
+    font-family: "Source Serif 4", serif;
+    font-size: 18px;}
+.carrot{
+   margin-top: 30px;
+    margin-left: 300px;
+}
+.rope {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+   
+}
+.iop {
+width: 400px;
+height: 300px;
+background-color: black;
+border-radius: 10px;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+}
+.viddy {
+    width: 120%;
+    height: 120%;
+    border-radius: 10px;
+}
+.picontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.byt{
+    width: 140%;
+}
+.iop {
+  position: relative;
+  cursor: pointer;
+}
+
+.viddy {
+  transition: filter 0.4s ease;
+}
+
+.after{
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  font-size: 24px;
+   font-family: "Outfit", sans-serif;
+  
+  z-index: 2;
+  opacity: 0; /* hidden */
+  transform: translateY(20px); /* hidden down */
+  transition: all 0.4s ease;
+}
+
+/* THIS is the fix - hover on .iop, not on .after */
+.iop:hover .viddy {
+  filter: brightness(60%);
+}
+
+.iop:hover .after {
+  opacity: 1;
+  transform: translateY(0); /* moves up */
+}
+.little {
+    font-size: 17px;
+}

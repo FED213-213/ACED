@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    /* max-width: 100%; */
+    
+}
+.gradient {
+    max-width: 100%;
+    height: 600px;
+    background: linear-gradient(180deg,
+     #982BFF, #5934F9, #1398AB, 
+    #E1EAFD);
+    color: white;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.heading {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.sps {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-right: 60px;
+}
+.mss{
+    display: flex;
+    gap: 20px;
+    border: none;
+    border-radius: 10px;
+    width: 500px;
+   align-items: center;
+  justify-content: center;
+  margin: auto;
+  font-family: "Public Sans", sans-serif;
+}
+.btn {
+    color: white;
+    font-weight: bold;
+}
+.a {
+    text-decoration: none;
+}
+.bxm {
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    width: 60px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+    
+}
+.t {
+    background-color: transparent;
+    border:1px solid white;
+   }
+.nig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Public Sans", sans-serif;
+}
+.ngg {
+    color: white;
+    font-size: 60px;
+    font-family: "Public Sans", sans-serif;
+    margin-bottom: 0;
+}
+.bl{
+    font-size: large;
+}
+.stride {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    margin: auto;
+}
+.byt {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.byt:hover {
+     background-color: #96b1b6; 
+    transform: translateY(-2px);
+    transform: scale(1.03);
+}
+.last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 40px;
+    margin-bottom: 0;
+
+}
+.lsr {
+    width: 10%;
+}
+.one {
+    margin-top: 0;
+}
+.bxm:hover{
+    
+    transform: translateY(-2px);
+    transform: scale(1.03);}

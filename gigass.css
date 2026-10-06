@@ -1,0 +1,414 @@
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.elephant {
+background-color: #e53935; /* red */
+color: white;
+text-align: center;
+padding: 8px 15px;
+font-size: 16px;
+font-family: Arial, sans-serif;
+font-weight: 400;
+width: 100%;
+}
+
+.hen {
+    width: 85%;
+    margin: 10px auto;
+    background: #1f1f1f;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 30px;
+}
+
+
+.dog {
+       display: flex;
+       gap: 20px;
+       color: white;
+       list-style: none;
+       align-items: center;
+       justify-content: center;
+}
+
+.monkey {
+     display: flex;
+     gap: 15px;
+}
+
+.track-btn {
+         background: #e53935;
+         color: white;
+         border: none;
+         border-radius: 30px;
+         padding: 12px 24px;
+  }
+
+.contact-btn {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 12px 24px;
+    border: 1px solid white;
+}
+
+.sheep {
+    color: white;
+    cursor: pointer;
+}
+
+.goat {
+    padding: 25px;
+    /* width: 100%; */
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+     max-width: 100%;
+}
+
+.snake {
+font-size: 37px;
+font-weight: bold;
+width: 100%;
+}
+
+.red-text {
+color: #d81f26;
+}
+
+.goat p {
+color: gray;
+font-size: 22px;
+margin-top: 20px;
+}
+
+.goat button {
+background: #d81f26;
+color: white;
+border: none;
+padding: 15px 30px;
+border-radius: 30px;
+margin-top: 20px;
+cursor: pointer;
+}
+
+.cow img {
+    width: 100%;
+    height: auto;
+}
+
+.father {
+    width: 100%;
+    padding: 80px 60px;
+    background-color: white;
+    text-align: left;
+}
+
+.uncle h1 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -20px;
+    /* margin-bottom: 20px; */
+}
+
+.car {
+    font-size: 10px;
+    font-weight: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: -20px;
+
+}
+
+.father p {
+    margin-top: 20px;
+    color: #444;
+    font-size: 20px;
+}
+
+.product-container {
+    max-width: 100%;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    gap: 150px;
+    
+}
+
+.shipping {
+    width: 300px;
+    height: 400px;
+    padding: 35px;
+}
+
+.shipping h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 30px;
+    padding-top: 60px;
+}
+
+.shipping p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 20px;
+    line-height: 1.5;
+    color: #444;
+    margin-left: 5px;
+    /* max-width: 550px; */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+.gradient {
+    width: 350px;
+    height: 350px;
+    background: linear-gradient(135deg,  #f4ecec, #dce2ff);
+    border-radius: 30px;
+    padding: 40px 30px 80px;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.gradient h3 {
+    text-align: center;
+    font-size: bold;
+    font-weight: 500;
+
+}
+
+.gradient p {
+      font-size: 15px;
+      line-height: 1.6;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-weight: 20px;
+}
+
+.kangaroo {
+    display: flex;
+    gap: 35px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.left-box {
+    width: 45%;
+    height: 565px;
+    background: linear-gradient(135deg, #f4edf5, #dfe2f7);
+    padding: 75px 40px 0;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+.left-box h1 {
+    font-size: 36px;
+    margin: 0 0 20px;
+}
+
+.image-box {
+    margin-top: 20px;
+    background: rgba(255,255,255,0.5);
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 170px;
+    overflow: hidden;
+}
+
+.right-box {
+    width: 45%;
+    padding: 45px;
+}
+
+.right-box h1 {
+    font-size: 30px;
+    margin: 0 0 30px;
+}
+
+.right-box button {
+    background: #d52229;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 25px;
+    /* font-weight: bold; */
+    margin-top: 20px;
+}
+
+.app-section {
+    display: flex;
+    gap: 12px;
+    width: 90%;
+    padding-top: 90px;
+    margin: 30px auto;
+}
+
+.app-box {
+    width: 49%;
+    height: 520px;
+    background: #ffe5e5;
+    border-radius: 25px;
+    padding: 30px 25px;
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.app-box h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.app-box span {
+     color: #cf2027;
+}
+
+.app-box p {
+    width: 220px;
+    line-height: 1.6;
+    margin-top: 45px;
+}
+
+.stores img {
+    display: block;
+    width: 130px;
+    margin-top: 15px;
+}
+
+.phone img {
+    position: absolute;
+    width: 155px;
+    right: 40px;
+    bottom: -10px;
+}
+
+.stats {
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.stat-box {
+    height: 220px;
+    border-radius: 25px;
+    padding: 35px 25px;
+    box-sizing: border-box;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.stat-box h2 {
+    font-size: 36px;
+    margin: 0 0 5px;
+}
+
+.stat-box p {
+    margin: 0;
+}
+
+.purple {
+     background: #e9e3ff;
+}
+
+.green {
+    background: #effbf7;
+}
+
+.yellow {
+     background: #fffbea;
+}
+
+.blue {
+    background: #eef7fc;
+}
+
+.bat {
+    background-color: whitesmoke;
+    display: flex;
+    width: 90%;
+    height: 400px;
+    margin: 60px auto;
+    gap: 60px;
+    padding: 50px;
+    padding-top: 100px;
+}
+
+.snail {
+    width: 50%;
+}
+
+.snail h1 {
+    font-size: 37px;
+    margin: 20px;
+}
+
+.snail p {
+    width: 90%;
+    line-height: 1.7;
+    font-size: 15px;
+}
+
+.snail h1 span {
+    color: #cc2027;
+}
+
+.review {
+    width: 50%;
+    display: flex;
+    position: relative;
+    gap: 20px;
+}
+
+.review-content {
+    width: 70%;
+}
+
+.review-content p {
+    line-height: 1.7;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.review-content h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* .quote-top {
+    width: 10px;
+    margin-bottom: 10px;
+}
+
+.quote-bottom {
+    width: 10px;
+    margin-top: 20px;
+} */
+
+.review-content {
+   font-size: 15px;
+}
+
+.review img {
+    width: 95px;
+    height: 140px;
+    padding-top: 40px;
+    object-fit: cover;
+    border-radius: 7px;
+}
