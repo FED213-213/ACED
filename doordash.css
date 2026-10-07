@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.suffer{
+    background-image: url("https://img.cdn4dd.com/cdn-cgi/image/fit=cover,format=auto,quality=60/https://cdn.doordash.com/managed/consumer/seo/home/hero_v3/hero_desktop.png");
+     background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 650px;
+   max-height: 650px;
+}
+.yuik{
+    
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.yakka{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: 25px;
+    
+}
+.aa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    background-color: rgb(235,23,1);
+    color: white;
+     width: 80px;
+    max-width: 100%;
+}
+.ba{
+  font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    background-color: rgb(255, 255, 255);
+    color:rgb(87,98,112);
+    width: 90px;
+    max-width: 100%;   
+}
+.blergh{
+     display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+    
+    padding-top: 15px;
+}
+.alerts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.imaz {
+    margin-bottom: 0;
+}
+.taiwo{
+    padding-top: 100px;
+}
+.farce {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33px;
+    margin: 0;
+   font-weight: 900;
+   }
+.taiwo span{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 11px;
+}
+.taiwo input{
+    height: 50px;
+    max-height: 50px;
+    margin-top: 20px;
+    width: 430px;
+    padding: 5px 0px 5px 20px;
+    border-radius: 30px;
+    border: none;
+}
+.field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.battle{
+    background-color: white;
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px;
+}
+.me
+{
+
+}
+.you {
+
+}
+.battle img{
+    width: 20px;
+}
+.ibo{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 5px;
+    padding-right: 10px;
+}
+.wire{
+     width: 100%;
+   height: 650px;
+   max-height: 650px;
+   
+}
+.jane{
+    
+}
+.artist{
+      font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    width: fit-content;
+    margin: 0;
+}
+.menn { 
+    
+    padding: 20px;}
+
+.wahal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    width: fit-content;
+    margin: 0;
+
+}
+.eary
+{
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(204,45,59);
+    margin: 0;
+}
+.rift
+{
+    width: 20px;
+}
+.musta{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 0;
+
+}
+.kudos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+
+}
